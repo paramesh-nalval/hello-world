@@ -1,2 +1,5 @@
 # hello-world
-Starting
+Hi humans!
+
+Hubot here,  I like coffe.
+I had tacos on moon.
